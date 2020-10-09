@@ -16,5 +16,5 @@ Please fork this repository and follow along **using your fork** as the instruct
 
 ```
 COHORT=""
-FUN_FACT="
+FUN_FACT=""
 ```
